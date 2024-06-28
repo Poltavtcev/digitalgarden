@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/instrukcziyi/yak-otrimati-d-u-n-s-nomer/","dgPassFrontmatter":true,"created":"2001-01-01T01:00:00.000+01:00","updated":"2024-06-21T23:20:46.952+02:00"}
+{"dg-publish":true,"permalink":"/instrukcziyi/yak-otrimati-d-u-n-s-nomer/","dgPassFrontmatter":true,"created":"2024-06-21T21:20:46.000+02:00","updated":"2024-06-21T21:20:46.000+02:00"}
 ---
 
 **Умови:**
