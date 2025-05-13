@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/instrukcziyi/gramps/yak-zminiti-movu-interfejsu-gramps-na-ukrayinsku-v-mac-os/","dgPassFrontmatter":true,"created":"2025-05-13T19:50:17.000+02:00","updated":"2025-05-13T19:59:06.000+02:00"}
+{"dg-publish":true,"permalink":"/instrukcziyi/gramps/yak-zminiti-movu-interfejsu-gramps-na-ukrayinsku-v-mac-os/","dgPassFrontmatter":true,"created":"2025-05-13T19:50:17.000+02:00","updated":"2025-05-13T20:03:31.000+02:00"}
 ---
 
 ### **Крок 1: Відкрити вміст програми Gramps**
@@ -25,7 +25,6 @@ app.main()
 ```
 2. Безпосередньо перед цим рядком вставте наступний код:
 ```python
-from os import environ
 environ["LANG"] = "uk_UA.UTF-8"
 environ["LANGUAGE"] = "uk"
 environ["LC_MESSAGES"] = "uk_UA.UTF-8"
