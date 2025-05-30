@@ -1,16 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/instrukcziyi/yak-otrimati-d-u-n-s-nomer/","dgPassFrontmatter":true,"created":"2024-06-21T21:20:46.000+02:00","updated":"2024-06-21T21:20:46.000+02:00"}
+{"dg-publish":true,"permalink":"/instrukcziyi/yak-otrimati-d-u-n-s-nomer/"}
 ---
 
-**Умови:**
-- **Вартість:** Безкоштовно
+
+## Умови:
+- **Вартість:** Безкоштовно  
 - **Термін:** до 30 робочих днів
 
-1. Авторизуйтеся або зареєструйтеся на Apple Developer [https://developer.apple.com](https://developer.apple.com).
-2. Перейдіть на спеціалізовану сторінку [https://developer.apple.com/enroll/duns-lookup/#!/search](https://developer.apple.com/enroll/duns-lookup/#!/search).
-3. Виберіть «Look up», заповніть дані та система покаже, що компанію не знайдено.
-4. Відправте дані на присвоєння D-U-N-S номера: натисніть «To have a D-U-N-S Number created for your legal entity, submit your information» (внизу сторінки) і натисніть «submit your information».
+### Інструкція з отримання D-U-N-S номера для Apple Developer:
 
-Процедура зазвичай займає до 5 робочих днів. Якщо протягом двох тижнів ви не отримали D-U-N-S Number, зв'яжіться з D&B безпосередньо за посиланням [https://support.dnb.com/?CUST=APPLEDEV](https://support.dnb.com/?CUST=APPLEDEV).
+1. Авторизуйтеся або зареєструйтеся на [Apple Developer](https://developer.apple.com).
+2. Перейдіть на сторінку для перевірки компанії:  
+   [https://developer.apple.com/enroll/duns-lookup/#!/search](https://developer.apple.com/enroll/duns-lookup/#!/search)
+3. Натисніть кнопку **«Look up»**, заповніть дані. Якщо вашу компанію не знайдено — з’явиться відповідне повідомлення.
+4. Щоб подати заявку на присвоєння номера D‑U‑N‑S, натисніть **«To have a D‑U‑N‑S Number created for your legal entity, submit your information»** (внизу сторінки), а потім — **«Submit your information»**.
 
-Після отримання D-U-N-S Number приблизно 2 робочих дні знадобиться для внесення даних в Apple.
+> ⚠️ **Увага!**  
+> При поданні заявки обов’язково вкажіть свій ІПН (ІНН).  
+> Оскільки окремого поля для цього немає, впишіть його у полі **"Legal Entity Name"** у дужках.  
+> Наприклад:  
+> `Mykola Poltavtsev (tax number: 000000000)`
+
+---
+
+### Що далі:
+
+- Процедура зазвичай займає **до 5 робочих днів**.
+- Якщо протягом **двох тижнів** ви не отримали номер D-U-N-S, зв’яжіться з D&B напряму за цим посиланням:  
+  [https://support.dnb.com/?CUST=APPLEDEV](https://support.dnb.com/?CUST=APPLEDEV)
+- Після отримання D-U-N-S Number **дані з’являться в Apple протягом приблизно 2 робочих днів**.
