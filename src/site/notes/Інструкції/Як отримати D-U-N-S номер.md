@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/instrukcziyi/yak-otrimati-d-u-n-s-nomer/"}
+{"dg-publish":true,"permalink":"/instrukcziyi/yak-otrimati-d-u-n-s-nomer/","dgPassFrontmatter":true,"created":"2024-06-21T21:20:46.000+02:00","updated":"2025-06-02T09:46:27.788+02:00"}
 ---
 
 
@@ -26,6 +26,9 @@
 ### Що далі:
 
 - Процедура зазвичай займає **до 5 робочих днів**.
-- Якщо протягом **двох тижнів** ви не отримали номер D-U-N-S, зв’яжіться з D&B напряму за цим посиланням:  
-  [https://support.dnb.com/?CUST=APPLEDEV](https://support.dnb.com/?CUST=APPLEDEV)
+- > Якщо протягом **двох тижнів** ви не отримали номер D-U-N-S, зв’яжіться безпосередньо з D&B за цим посиланням:
+
+> [https://support.dnb.com/?CUST=APPLEDEV](https://support.dnb.com/?CUST=APPLEDEV)
+
+> **Увага:** перед подачею заявки необхідно спершу зареєструватися на сайті. Інакше за цим посиланням не з’являться потрібні пункти для вибору.
 - Після отримання D-U-N-S Number **дані з’являться в Apple протягом приблизно 2 робочих днів**.
